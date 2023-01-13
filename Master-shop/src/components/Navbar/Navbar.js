@@ -15,7 +15,7 @@ const Navbar = () => {
                     /*</div>style={{ 
                         backgroundColor: 'green',
                         color: 'white'
-                    }}*/ >Master Shop ^^</h1>                    
+                    }}*/ >Master Shop \m/ </h1>                    
                 </Link>
             </div>
             <div className="Categories">

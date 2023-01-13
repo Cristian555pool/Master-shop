@@ -89,7 +89,7 @@ const Cart = () => {
                 <h5 style={{ color: '#FF5800'}}>NUESTRO LOCAL</h5>
                 <p>Retira Gratis por Nuestro Local. CORDOBA - ARGENTINA</p>
                 <p>lunes a viernes de 9:30 a 17:30</p>
-                <h6 style={{ color: '#FF5800'}}>Gratis</h6>
+                <h6 style={{ color: '#FF5800'}}> Master Shop \m/ </h6>
             </article>
         </div>
     )
